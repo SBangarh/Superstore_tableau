@@ -2,7 +2,7 @@
 
 ## Purpose
 To showcase knowledge in Tableau (free version) by building informative dashboards to present to hypothetical company executives.
-[Link]() to workbook.
+[Link](https://public.tableau.com/app/profile/suneel.bangarh/viz/Superstoreanalysis_17174564209290/Customers) to workbook.
 
 ## Data
 Data was obtained from [here](https://hackernoon.com/14-best-tableau-datasets-for-practicing-data-visualization).
